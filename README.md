@@ -21,7 +21,7 @@ If you want to build through my project, you can access my OneDrive link
 4. Build and Run
 5. Transfer the build to your smartphone
 
-But if you want to play our app right away, you can git clone this repository (https://github.com/kanzhamada/AquaVerseAR.git) and move it to your mobile device.
+But if you want to play our app right away, you can visit this [link](https://bit.ly/AquaVerseAR)  and move it to your mobile device.
 
 # Team
 UI/UX Designer - [Aldo](https://github.com/aldoawp) <br>
